@@ -1,6 +1,8 @@
 <h3 align="center">Computer Science Major</h3><br>
 
-- 📫 How to Reach Me **terryant64@gmail.com**
+- 👋 Hello, I'm Anthony!
+- 🌱 Currently working on projects to build my portfolio.
+- 📫 How to Reach Me: **terryant64@gmail.com**
   
 ---
 
