@@ -36,3 +36,9 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats:
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-MarioTeachesTyping
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
