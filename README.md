@@ -1,11 +1,10 @@
-<h1 align="center"> 💫 About Me </h1>
----
+<h1 align="center"> 💫 About Me </h1><br>
 
 - 👋 Hello, I'm Anthony!
 - 🌱 Currently working on projects to build my portfolio.
 - 📫 How to Reach Me: **terryant64@gmail.com**
   
-<br>
+---
 
 ### 💻 Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -36,7 +35,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-<br>
+---
 
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarioTeachesTyping&theme=tokyonight)](https://git.io/streak-stats)
