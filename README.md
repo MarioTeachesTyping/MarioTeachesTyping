@@ -38,6 +38,6 @@
 ---
 
 ### 📊 GitHub Stats:
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-MarioTeachesTyping
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MarioTeachesTyping)](https://git.io/streak-stats)
 
 ---
