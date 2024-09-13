@@ -1,4 +1,4 @@
-<h3 align="center">Computer Science Major</h3><br>
+<h1 align="center">Computer Science Major</h1><br>
 
 - 👋 Hello, I'm Anthony!
 - 🌱 Currently working on projects to build my portfolio.
