@@ -2,6 +2,7 @@
 
 - 👋 Hello, I'm Anthony!
 - 🌱 Currently working on projects to build my portfolio and make a difference.
+- 👾 My favorite hobbies are playing games, going to the gym, and baking.
 - 📫 How to Reach Me: **terryant64@gmail.com**
   
 ---
