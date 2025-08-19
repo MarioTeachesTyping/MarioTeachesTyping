@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm AJ!
 - 🌱 Currently working on projects to build my portfolio and make a difference.
-- 👾 My favorite hobbies are playing games, going to the gym, and baking.
+- 👾 My favorite hobbies are playing games, drawing, and going to the gym.
 - 📫 How to Reach Me: **terryant64@gmail.com**
   
 ---
