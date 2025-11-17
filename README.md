@@ -1,7 +1,7 @@
 <h1 align="center"> 💫 About Me </h1><br>
 
 - 👋 Hi, I'm AJ!
-- 🌱 Currently working on projects to create things I love and benefit others.
+- 🌱 Currently working on projects to create things I love and can benefit others.
 - 👾 My favorite hobbies are playing games, drawing, and going to the gym.
 - 📫 How to Reach Me: **terryant64@gmail.com**
   
@@ -48,6 +48,6 @@
 ---
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MarioTeachesTyping&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MarioTeachesTyping&theme=youtube-dark)](https://git.io/streak-stats)
 
 ---
