@@ -4,7 +4,7 @@
 - 😼 Hi, I'm AJ!
 - 🌠 Currently working on projects to create things I love and can benefit others.
 - 👾 My favorite hobbies are playing games, drawing, and going to the gym.
-- 📫 How to Reach Me: **terryant64@gmail.com**
+- 📫 How to Reach Me: terryant64@gmail.com
 ```
 
 ---
