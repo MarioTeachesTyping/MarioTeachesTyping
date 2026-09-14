@@ -59,6 +59,8 @@
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 
 ---
 
@@ -66,10 +68,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MarioTeachesTyping&theme=youtube-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioTeachesTyping&theme=github-dark&hide_border=true&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff4d4d" />
 </p>
 
 ---
